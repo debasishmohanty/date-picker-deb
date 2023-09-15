@@ -1,2 +1,2 @@
-# event-scheduler
-create, delete events
+# date-picker-deb
+A custom date picker
